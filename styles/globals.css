@@ -1,0 +1,45 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+body {
+  margin-top: 100px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: "red";
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+}
+
+.brand {
+  width: 380px;
+  height: auto;
+}
+
+.carousel-teichkonzert img,
+.carousel-teichkonzert .MuiPaper-root>span,
+.carousel-teichkonzert .MuiPaper-root>span {
+  width: 100% !important;
+  height: auto !important;
+  min-width: unset !important;
+  max-width: unset !important;
+  min-height: unset !important;
+  max-height: unset !important;
+}
